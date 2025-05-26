@@ -39,8 +39,8 @@
 
 ## 📫 Let's Connect!
 
-📬[LinkedIn([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourusername](https://www.linkedin.com/in/nimisha-gupta-a6613625a/))  
-📬 Email: nimishaaguptaa12@example.com
+📬 [LinkedIn](https://linkedin.com/in/yourusername](https://www.linkedin.com/in/nimisha-gupta-a6613625a/))  
+📬 Email: nimishaaguptaa12@gmail.com
 
 ---
 
